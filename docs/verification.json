@@ -1,0 +1,220 @@
+{
+  "source": "Unity PlayMode NUnit report",
+  "report": "normal-progression-playmode.xml",
+  "result": "Passed",
+  "total": 52,
+  "passed": 52,
+  "failed": 0,
+  "start_utc": "2026-10-25 19:58:32Z",
+  "end_utc": "2026-10-25 19:59:17Z",
+  "tests": [
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.BallIsPreviewedTwoPatternsEarlyAndReusedUntilEncounter",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.BallTileNeedsAnImmediateExitJump",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.DisabledObstaclesHideBallWindAndSignal",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.ExtraTapsDuringBallJumpAreIgnored",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.ImmediateBallTapSucceeds",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.MaximumSpeedKeepsBallReactionGrace",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.MusicAndClicksSpeedUpWithoutRestartingSong",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.NoBallTapFails",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.OrdinaryPatternsKeepExistingRhythmTolerance(1)",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.OrdinaryPatternsKeepExistingRhythmTolerance(2)",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.PreviewApproachesSmoothlyOutsideUnchangedCollisionZone",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.ReactionTapBeforeDeadlineSucceeds",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.RedLightJumpShowsNearMissThenFailsOnce",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.RedWaitReleasesOnGreenAndAllowsSidewalkJump",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.SetProgressionKeepsGeometryAndDoesNotAdvanceWithScore",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.StayingOnBallTileFails",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.BallAndSignalTests.TapAfterBallDeadlineFails",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.CurbWindTests.CalmRestoresOriginalSpeedAndRestartClearsWindMomentum",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.CurbWindTests.CueIsReusedAndHiddenOutsideGust",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.CurbWindTests.OneTapCannotCoastThroughActualGust(30)",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.CurbWindTests.OneTapCannotCoastThroughActualGust(60)",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.CurbWindTests.OneTapCannotCoastThroughActualGust(120)",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.CurbWindTests.SoftWindHasSmoothEdgesAndLimitedHighFrequencyEnergy",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.CurbWindTests.TapCountersImmediatelyButWindPushesBackWithoutFurtherInput(0.7f)",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.CurbWindTests.TapCountersImmediatelyButWindPushesBackWithoutFurtherInput(-0.7f)",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.CurbWindTests.VisibleLeanResponsiveTapsCanSurviveGust(30)",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.CurbWindTests.VisibleLeanResponsiveTapsCanSurviveGust(60)",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.CurbWindTests.VisibleLeanResponsiveTapsCanSurviveGust(120)",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.CurbWindTests.WarningPrecedesForceAndGustEnds",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.CurbWindTests.WindAudioIsBelowMusicAndStopsWhenCueHides",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.CurbWindTests.WindDoesNotOverrideReversalOrReset",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.CurbWindTests.WindPresentationFadesAndTreeReturnsToRest",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.NeighborhoodVisualTests.CrosswalkEntryStartsAtRearWithoutChangingJumpLanding",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.NeighborhoodVisualTests.FirstCrosswalkApproachesFromSidewalkWithoutQueuingTaps",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.NeighborhoodVisualTests.SceneryRecyclesWithoutCollidersOrRandomSideEffects",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.NeighborhoodVisualTests.SectionThemesMatchRoadAndRecycleWithoutGameplaySideEffects",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.NeighborhoodVisualTests.StudentAccessoriesFollowTorsoAndFeetRemainSeparate",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.PlayerFeedbackTests.BalanceArmsAndGeneratedAudioArePresentationOnly",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.PlayerFeedbackTests.LandingFeedbackKeepsTargetAndCallbackAndDistinctFootPoses",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.PrototypeBootstrapPlayModeTests.BootstrapCreatesAPlayablePrototype",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.PrototypeBootstrapPlayModeTests.CrosswalkIgnoresAirTapsButRapidGroundTapLandsInTheGap",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.PrototypeBootstrapPlayModeTests.CurbFailureStillFallsSideways",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.PrototypeBootstrapPlayModeTests.EntryCuesReserveTwoBeatsBeforeFirstTap",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.PrototypeBootstrapPlayModeTests.FiniteGeneratorsStopAppendingAndCanBeReusedAhead",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.PrototypeBootstrapPlayModeTests.FiniteSectionsAreAheadAndTransitionsPreserveForwardProgress",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.PrototypeBootstrapPlayModeTests.HopscotchFailureStillFallsForward",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.PrototypeBootstrapPlayModeTests.StartPromptFitsNarrowCameraViewports",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.PrototypeBootstrapPlayModeTests.SurfaceTransitionsJumpUpAndDownWithDoubleLanding",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.ResultScreenTests.BestScorePersistsAndNeverDecreases",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.ResultScreenTests.OneTapAfterFailRestartsThroughOneCountdown",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.ResultScreenTests.ResultFitsViewportAndHidesDuringCountdown",
+      "result": "Passed"
+    },
+    {
+      "name": "Homeward.Hopscotch.Tests.ResultScreenTests.ScoreBadgeFitsViewportAndFollowsHudState",
+      "result": "Passed"
+    }
+  ]
+}

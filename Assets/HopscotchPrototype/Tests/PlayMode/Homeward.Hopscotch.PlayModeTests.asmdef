@@ -1,0 +1,21 @@
+{
+  "name": "Homeward.Hopscotch.PlayModeTests",
+  "rootNamespace": "Homeward.Hopscotch.Tests",
+  "references": [
+    "Homeward.Hopscotch.Runtime"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
