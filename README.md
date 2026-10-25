@@ -5,9 +5,12 @@
 
 ## 포트폴리오
 
+- [장애물 플레이 영상 — 약 30초, MP4](https://github.com/foxra1n/go-to-home/releases/tag/portfolio-demo-2026-10-26)
 - [개발 포트폴리오 PDF - 8쪽](docs/Go-To-Home_Unity_Portfolio.pdf)
 - [개발 방식과 수정 기록](docs/DEVELOPMENT.md)
 - [검증 결과 요약](docs/verification.json)
+
+영상은 실제 PC 게임 화면과 소리를 녹화했습니다. 공 회피(0–11초), 바람 속 균형 유지(11–21초), 신호 대기와 횡단(21–27초), 빨간불 점프 실패(27–30초)를 담았습니다. 촬영 전용으로 장애물을 켜고 **1.4배속·자동 입력**으로 시연한 편집 영상이며, 일반 플레이의 정상 난이도 진행 설정은 변경하지 않았습니다. 비공개 저장소의 영상도 별도 열람 권한이 필요합니다.
 
 <img src="docs/images/soccer-hopscotch.png" width="260" alt="학생 캐릭터와 축구공 장애물이 있는 사방치기 화면" />
 <img src="docs/images/crosswalk-near-miss.png" width="260" alt="차도 안에서 차량이 멈추는 횡단보도 진단 장면" />
